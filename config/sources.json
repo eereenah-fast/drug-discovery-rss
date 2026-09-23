@@ -1,0 +1,224 @@
+[
+  {
+    "id": "epmc-chem",
+    "name": "Europe PMC \u00b7 chemistry & discovery",
+    "type": "europepmc",
+    "homepage": "https://europepmc.org",
+    "query": "cheminformatics OR chemoinformatics OR \"drug discovery\" OR \"virtual screening\" OR \"molecular docking\" OR \"lead optimization\"",
+    "pages": 4
+  },
+  {
+    "id": "epmc-biologics",
+    "name": "Europe PMC \u00b7 biologics & targets",
+    "type": "europepmc",
+    "homepage": "https://europepmc.org",
+    "query": "\"protein design\" OR \"antibody design\" OR \"antibody engineering\" OR \"peptide design\" OR \"target discovery\" OR \"target validation\" OR \"targeted protein degradation\"",
+    "pages": 3
+  },
+  {
+    "id": "epmc-modalities",
+    "name": "Europe PMC \u00b7 emerging modalities",
+    "type": "europepmc",
+    "homepage": "https://europepmc.org",
+    "query": "(\"RNA therapeutics\" OR \"oligonucleotide therapeutics\" OR \"cell therapy\" OR \"gene therapy\" OR \"molecular glue\" OR PROTAC) AND (design OR screening OR discovery OR engineering)",
+    "pages": 2
+  },
+  {
+    "id": "arxiv",
+    "name": "arXiv",
+    "type": "arxiv",
+    "homepage": "https://arxiv.org",
+    "query": "all:cheminformatics OR all:\"drug discovery\" OR all:\"molecular generation\" OR all:\"protein design\" OR all:\"binding affinity\" OR all:\"antibody design\""
+  },
+  {
+    "id": "jcheminf",
+    "name": "Journal of Cheminformatics",
+    "type": "crossref",
+    "issn": "1758-2946",
+    "homepage": "https://jcheminf.biomedcentral.com/"
+  },
+  {
+    "id": "jcim",
+    "name": "Journal of Chemical Information and Modeling",
+    "type": "crossref",
+    "issn": "1549-9596",
+    "homepage": "https://pubs.acs.org/journal/jcisd8"
+  },
+  {
+    "id": "jmedchem",
+    "name": "Journal of Medicinal Chemistry",
+    "type": "crossref",
+    "issn": "0022-2623",
+    "homepage": "https://pubs.acs.org/journal/jmcmar"
+  },
+  {
+    "id": "acs-medchem-letters",
+    "name": "ACS Medicinal Chemistry Letters",
+    "type": "crossref",
+    "issn": "1948-5878",
+    "homepage": "https://pubs.acs.org/journal/amclct"
+  },
+  {
+    "id": "acs-pharmacol-transl",
+    "name": "ACS Pharmacology & Translational Science",
+    "type": "crossref",
+    "issn": "2470-9444",
+    "homepage": "https://pubs.acs.org/journal/aptsfn"
+  },
+  {
+    "id": "nature-methods",
+    "name": "Nature Methods",
+    "type": "crossref",
+    "issn": "1548-7105",
+    "homepage": "https://www.nature.com/nmeth"
+  },
+  {
+    "id": "nature-chemical-biology",
+    "name": "Nature Chemical Biology",
+    "type": "crossref",
+    "issn": "1552-4450",
+    "homepage": "https://www.nature.com/nchembio"
+  },
+  {
+    "id": "nature-biotechnology",
+    "name": "Nature Biotechnology",
+    "type": "crossref",
+    "issn": "1087-0156",
+    "homepage": "https://www.nature.com/nbt"
+  },
+  {
+    "id": "nature-machine-intelligence",
+    "name": "Nature Machine Intelligence",
+    "type": "crossref",
+    "issn": "2522-5839",
+    "homepage": "https://www.nature.com/natmachintell"
+  },
+  {
+    "id": "nature-computational-science",
+    "name": "Nature Computational Science",
+    "type": "crossref",
+    "issn": "2662-264X",
+    "homepage": "https://www.nature.com/natcomputsci"
+  },
+  {
+    "id": "nature-communications",
+    "name": "Nature Communications",
+    "type": "crossref",
+    "issn": "2041-1723",
+    "homepage": "https://www.nature.com/ncomms"
+  },
+  {
+    "id": "communications-chemistry",
+    "name": "Communications Chemistry",
+    "type": "crossref",
+    "issn": "2399-3669",
+    "homepage": "https://www.nature.com/commschem"
+  },
+  {
+    "id": "scientific-reports",
+    "name": "Scientific Reports",
+    "type": "crossref",
+    "issn": "2045-2322",
+    "homepage": "https://www.nature.com/srep"
+  },
+  {
+    "id": "chemrxiv",
+    "name": "ChemRxiv",
+    "type": "crossref",
+    "prefix": "10.26434",
+    "kind": "Preprints",
+    "homepage": "https://chemrxiv.org"
+  },
+  {
+    "id": "rdkit-blog",
+    "name": "RDKit Blog",
+    "type": "rss",
+    "url": "https://greglandrum.github.io/rdkit-blog/index.xml",
+    "homepage": "https://greglandrum.github.io/rdkit-blog/"
+  },
+  {
+    "id": "iwatobipen",
+    "name": "iwatobipen",
+    "type": "rss",
+    "url": "https://iwatobipen.wordpress.com/feed/",
+    "homepage": "https://iwatobipen.wordpress.com"
+  },
+  {
+    "id": "opentargets",
+    "name": "Open Targets",
+    "type": "rss",
+    "url": "https://blog.opentargets.org/rss/",
+    "homepage": "https://blog.opentargets.org"
+  },
+  {
+    "id": "chembl",
+    "name": "ChEMBL Blog",
+    "type": "rss",
+    "url": "https://chembl.blogspot.com/feeds/posts/default?alt=rss",
+    "homepage": "https://chembl.blogspot.com"
+  },
+  {
+    "id": "this-week-cheminformatics",
+    "name": "This Week in Cheminformatics",
+    "type": "rss",
+    "url": "https://thisweekincheminformatics.substack.com/feed",
+    "homepage": "https://thisweekincheminformatics.substack.com"
+  },
+  {
+    "id": "rowan-newsletter",
+    "name": "Rowan Newsletter",
+    "type": "rss",
+    "url": "https://rowansci.substack.com/feed",
+    "homepage": "https://rowansci.substack.com"
+  },
+  {
+    "id": "macs-in-chemistry",
+    "name": "Macs in Chemistry",
+    "type": "rss",
+    "url": "https://macinchem.org/feed/",
+    "homepage": "https://macinchem.org"
+  },
+  {
+    "id": "noel-oblog",
+    "name": "Noel O'Blog",
+    "type": "rss",
+    "url": "https://baoilleach.blogspot.com/feeds/posts/default?alt=rss",
+    "homepage": "https://baoilleach.blogspot.com"
+  },
+  {
+    "id": "medchem-ash",
+    "name": "Medicinal Chemistry · Ash Jogalekar",
+    "type": "rss",
+    "url": "https://medchemash.substack.com/feed",
+    "homepage": "https://medchemash.substack.com"
+  },
+  {
+    "id": "drugdiscovery-net",
+    "name": "DrugDiscovery.NET",
+    "type": "rss",
+    "url": "https://www.drugdiscovery.net/feed/",
+    "homepage": "https://www.drugdiscovery.net"
+  },
+  {
+    "id": "chem-bla-ics",
+    "name": "chem-bla-ics · Linked Chemistry",
+    "type": "rss",
+    "url": "https://chem-bla-ics.linkedchemistry.info/feeds/posts/default?alt=rss",
+    "homepage": "https://chem-bla-ics.linkedchemistry.info"
+  },
+  {
+    "id": "github",
+    "name": "GitHub \u00b7 tools & releases",
+    "type": "github",
+    "homepage": "https://github.com",
+    "queries": [
+      "topic:cheminformatics",
+      "topic:drug-discovery"
+    ],
+    "repositories": [
+      "rdkit/rdkit",
+      "deepchem/deepchem",
+      "chemprop/chemprop"
+    ]
+  }
+]

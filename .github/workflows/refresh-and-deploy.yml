@@ -1,0 +1,62 @@
+name: Refresh research and publish
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  schedule:
+    # Six times per day, away from the busy top of the hour (UTC).
+    - cron: '17 */4 * * *'
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: discovery-radar-publication
+  cancel-in-progress: false
+jobs:
+  publish:
+    if: github.event_name != 'push' || github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Restore durable research records
+        run: python3 collector/state.py restore
+      - name: Collect public sources
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 collector/collect.py --days 14
+      - name: Install locked dependencies
+        run: npm ci
+      - name: Verify collector, feed behavior, and types
+        run: |
+          npm test
+          npm run typecheck
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Build static website
+        env:
+          PAGES_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: |
+          npm run build
+          touch dist/client/.nojekyll
+          python3 collector/validate_export.py dist/client
+      - name: Save durable research records
+        run: python3 collector/state.py save
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/client
+      - name: Publish
+        id: deployment
+        uses: actions/deploy-pages@v4
