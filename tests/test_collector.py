@@ -26,6 +26,13 @@ class CollectorTests(unittest.TestCase):
         item['source'] = 'Pakistan journal of pharmaceutical sciences'
         self.assertIsNone(c.classify(item, CONFIG))
 
+    def test_rejects_methods_in_molecular_biology_chapters(self):
+        item = self.make('In Silico Drug Design of Chikungunya Antivirals: Using Consensus Methods for Virtual Screening',
+                         'A consensus method for virtual screening and antiviral discovery.')
+        item['source'] = 'Methods in molecular biology (Clifton, N.J.)'
+        item['doi'] = '10.1007/978-1-0716-5496-5_16'
+        self.assertIsNone(c.classify(item, CONFIG))
+
     def test_rejects_routine_application_in_broad_journal(self):
         item = self.make('Molecular docking study of a plant extract against an enzyme',
                          'Drug discovery molecular docking and antioxidant activity.')

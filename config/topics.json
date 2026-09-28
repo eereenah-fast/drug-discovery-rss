@@ -105,7 +105,8 @@
     "chemmedchem"
   ],
   "excluded_journals": [
-    "pakistan journal of pharmaceutical sciences"
+    "pakistan journal of pharmaceutical sciences",
+    "methods in molecular biology"
   ],
   "contribution_terms": [
     "new method",

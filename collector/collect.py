@@ -108,6 +108,9 @@ def quality_gate(item, config):
     source = item.get("source", "").lower()
     if any(re.search(pattern, source) for pattern in config.get("excluded_journals", [])):
         return False
+    # Europe PMC labels Springer book chapters as journal-like records; they are outside this journal feed.
+    if (item.get("doi") or "").startswith("10.1007/978-"):
+        return False
     if item.get("kind") in ("Blogs", "Code"):
         return True
     if any(re.search(pattern, text) for pattern in ("cheminformatics", "chemoinformatics", "\\brdkit\\b", "molecular glue", "engineering")):

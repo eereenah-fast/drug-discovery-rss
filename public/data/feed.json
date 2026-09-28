@@ -4,68 +4,6 @@
   "window_start": "2026-09-09",
   "items": [
     {
-      "id": "doi:10.1007/978-1-0716-5496-5_16",
-      "title": "In Silico Drug Design of Chikungunya Antivirals: Using Consensus Methods for Virtual Screening.",
-      "url": "https://doi.org/10.1007/978-1-0716-5496-5_16",
-      "published": "2027-01-01",
-      "source": "Methods in molecular biology (Clifton, N.J.)",
-      "kind": "Journals",
-      "doi": "10.1007/978-1-0716-5496-5_16",
-      "collected_from": "epmc-chem",
-      "subjects": [
-        "Discovery methods"
-      ],
-      "methods": [
-        "Docking & screening",
-        "Affinity & simulation",
-        "AI & machine learning"
-      ],
-      "relevance": 90,
-      "first_seen": "2026-09-23T09:07:52+00:00",
-      "last_seen": "2026-09-23T09:07:52+00:00"
-    },
-    {
-      "id": "doi:10.1007/978-1-0716-5496-5_12",
-      "title": "Assessing Chikungunya Virus Protease Activity and Pharmacological Inhibition Using the acc-CHIK 15 -dnp Fluorogenic Peptide Substrate.",
-      "url": "https://doi.org/10.1007/978-1-0716-5496-5_12",
-      "published": "2027-01-01",
-      "source": "Methods in molecular biology (Clifton, N.J.)",
-      "kind": "Journals",
-      "doi": "10.1007/978-1-0716-5496-5_12",
-      "collected_from": "epmc-chem",
-      "subjects": [
-        "Small molecules",
-        "Peptides"
-      ],
-      "methods": [
-        "Docking & screening",
-        "Experimental discovery"
-      ],
-      "relevance": 85,
-      "first_seen": "2026-09-23T09:07:52+00:00",
-      "last_seen": "2026-09-23T09:07:52+00:00"
-    },
-    {
-      "id": "doi:10.1007/978-1-0716-5539-9_3",
-      "title": "Deep Learning Protocols for Predicting Drug Mechanism of Action and Drug-Target Interactions.",
-      "url": "https://doi.org/10.1007/978-1-0716-5539-9_3",
-      "published": "2027-01-01",
-      "source": "Methods in molecular biology (Clifton, N.J.)",
-      "kind": "Journals",
-      "doi": "10.1007/978-1-0716-5539-9_3",
-      "collected_from": "epmc-chem",
-      "subjects": [
-        "Small molecules",
-        "Target discovery"
-      ],
-      "methods": [
-        "AI & machine learning"
-      ],
-      "relevance": 80,
-      "first_seen": "2026-09-23T09:07:52+00:00",
-      "last_seen": "2026-09-23T09:07:52+00:00"
-    },
-    {
       "id": "doi:10.1002/rcm.70177",
       "title": "Exploring the Mechanism of Zhigancao Decoction in the Treatment of Chronic Heart Failure via Modulation of Oxidative Stress.",
       "url": "https://doi.org/10.1002/rcm.70177",
