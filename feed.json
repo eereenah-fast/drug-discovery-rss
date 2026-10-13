@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-12T17:56:32+00:00",
-  "window_start": "2026-09-28",
+  "updated_at": "2026-10-13T02:01:34+00:00",
+  "window_start": "2026-09-29",
   "items": [
     {
       "id": "doi:10.1002/pro.70794",
@@ -23,8 +23,8 @@
         "Data & software"
       ],
       "relevance": 100,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1002/psc.70129",
@@ -44,8 +44,8 @@
         "Experimental discovery"
       ],
       "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1002/pro.70815",
@@ -65,7 +65,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-03T19:14:12+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1002/pro.70800",
@@ -83,8 +83,8 @@
         "Generative design"
       ],
       "relevance": 70,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/MariosGvr/synspeq",
@@ -108,7 +108,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15010270/v1",
@@ -128,8 +128,8 @@
         "AI & machine learning"
       ],
       "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15010253/v1",
@@ -150,8 +150,8 @@
         "Data & software"
       ],
       "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15010255/v1",
@@ -170,8 +170,8 @@
         "Data & software"
       ],
       "relevance": 85,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15010294/v1",
@@ -190,8 +190,27 @@
         "Data & software"
       ],
       "relevance": 85,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
+    },
+    {
+      "id": "doi:10.1021/acs.jmedchem.6c01625",
+      "title": "Development of N -Hydroxyindole-2-Carboxamides as New Host-Targeted Broad-Spectrum Antiviral Agents Against Human Respiratory Viruses",
+      "url": "https://doi.org/10.1021/acs.jmedchem.6c01625",
+      "published": "2026-10-12",
+      "source": "Journal of Medicinal Chemistry",
+      "kind": "Journals",
+      "doi": "10.1021/acs.jmedchem.6c01625",
+      "collected_from": "jmedchem",
+      "subjects": [
+        "Small molecules"
+      ],
+      "methods": [
+        "Discovery research"
+      ],
+      "relevance": 80,
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01940",
@@ -210,7 +229,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1038/s41467-026-78635-1",
@@ -230,7 +249,7 @@
       ],
       "relevance": 75,
       "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1038/s41467-026-78613-7",
@@ -249,7 +268,7 @@
       ],
       "relevance": 70,
       "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15010262/v1",
@@ -269,8 +288,8 @@
         "Data & software"
       ],
       "relevance": 70,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c02353",
@@ -290,7 +309,26 @@
       ],
       "relevance": 65,
       "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
+    },
+    {
+      "id": "doi:10.1021/acs.jmedchem.6c02004",
+      "title": "Structure-Based Design of HDAC6 Inhibitors Targeting the L2 Pocket: Modulating Autophagy and Liquid−Liquid Phase Separation in Lung Cancer",
+      "url": "https://doi.org/10.1021/acs.jmedchem.6c02004",
+      "published": "2026-10-12",
+      "source": "Journal of Medicinal Chemistry",
+      "kind": "Journals",
+      "doi": "10.1021/acs.jmedchem.6c02004",
+      "collected_from": "jmedchem",
+      "subjects": [
+        "Small molecules"
+      ],
+      "methods": [
+        "Docking & screening"
+      ],
+      "relevance": 60,
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15010296/v1",
@@ -308,8 +346,8 @@
         "Affinity & simulation"
       ],
       "relevance": 60,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c02889",
@@ -328,7 +366,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01755",
@@ -347,7 +385,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01530",
@@ -366,7 +404,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15010246/v1",
@@ -392,8 +430,8 @@
         "Data & software"
       ],
       "relevance": 100,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.05.756918",
@@ -416,8 +454,8 @@
         "Data & software"
       ],
       "relevance": 95,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.03.752923",
@@ -438,7 +476,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-10-12T06:00:18+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/kannegantimeenakshi5-max/inha-activity-prediction",
@@ -461,7 +499,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-11T05:48:59+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15010241/v1",
@@ -480,8 +518,8 @@
         "Data & software"
       ],
       "relevance": 85,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c02343",
@@ -501,7 +539,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-12T06:00:18+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15010245/v1",
@@ -523,8 +561,8 @@
         "Data & software"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15010242/v1",
@@ -542,8 +580,8 @@
         "Discovery research"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1186/s13321-026-01278-3",
@@ -563,7 +601,7 @@
       ],
       "relevance": 75,
       "first_seen": "2026-10-11T05:48:59+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1186/s13321-026-01313-3",
@@ -582,7 +620,7 @@
       ],
       "relevance": 70,
       "first_seen": "2026-10-11T05:48:59+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.06.757137",
@@ -602,7 +640,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-12T06:00:18+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.08.757803",
@@ -622,8 +660,8 @@
         "ADMET & properties"
       ],
       "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/Oluwaseun-O-Ajayi/solubility-noise-benchmark",
@@ -648,7 +686,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-12T06:00:18+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c01545",
@@ -669,7 +707,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-10T05:54:17+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01274",
@@ -688,7 +726,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-10T20:04:40+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.08.757584",
@@ -707,8 +745,8 @@
         "Generative design"
       ],
       "relevance": 75,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/chemaiatlas/chemistry-ai-recipe-spec",
@@ -730,7 +768,7 @@
       ],
       "relevance": 70,
       "first_seen": "2026-10-10T20:04:40+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1038/s42004-026-02229-7",
@@ -749,7 +787,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-10T23:34:40+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01848",
@@ -768,7 +806,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-10T20:04:40+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.08.757476",
@@ -791,7 +829,7 @@
       ],
       "relevance": 100,
       "first_seen": "2026-10-10T05:54:17+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/nishsm/bbbnet",
@@ -816,29 +854,7 @@
       ],
       "relevance": 95,
       "first_seen": "2026-10-09T20:55:37+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
-      "id": "https://arxiv.org/abs/2610.13006",
-      "title": "TopoLIA: Topology-Inspired Latent Interaction Attention for Drug Discovery",
-      "url": "https://arxiv.org/abs/2610.13006v1",
-      "published": "2026-10-09",
-      "source": "arXiv",
-      "kind": "Preprints",
-      "doi": null,
-      "collected_from": "arxiv",
-      "subjects": [
-        "Small molecules"
-      ],
-      "methods": [
-        "Docking & screening",
-        "Affinity & simulation",
-        "AI & machine learning",
-        "Data & software"
-      ],
-      "relevance": 95,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.21203/rs.3.rs-11008920/v1",
@@ -859,8 +875,8 @@
         "Data & software"
       ],
       "relevance": 95,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/jonswain/morg2smiles",
@@ -884,7 +900,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-10-09T06:10:42+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1038/s41589-026-02347-2",
@@ -905,7 +921,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-10-09T15:19:02+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15010189/v1",
@@ -947,8 +963,8 @@
         "Data & software"
       ],
       "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.21203/rs.3.rs-11294579/v1",
@@ -968,8 +984,8 @@
         "Data & software"
       ],
       "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/AymaneAmri-MD/drug-design-morphine-atropine",
@@ -993,7 +1009,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-10-10T20:04:40+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.08.26364770",
@@ -1012,8 +1028,8 @@
         "Affinity & simulation"
       ],
       "relevance": 85,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://arxiv.org/abs/2610.06411",
@@ -1053,7 +1069,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-10T05:54:17+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.08.757794",
@@ -1073,7 +1089,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-10T05:54:17+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.07.757472",
@@ -1092,8 +1108,8 @@
         "Affinity & simulation"
       ],
       "relevance": 85,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/ByungwoongYoo/ml-ready-chem-datasets",
@@ -1118,7 +1134,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-09T15:19:02+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c02029",
@@ -1138,7 +1154,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-09T20:55:37+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.08.757603",
@@ -1156,8 +1172,8 @@
         "Discovery research"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1038/s41598-026-74569-2",
@@ -1196,7 +1212,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-10T05:54:17+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01079",
@@ -1216,7 +1232,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-10T05:54:17+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c02714",
@@ -1235,7 +1251,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-09T20:55:37+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1038/s41467-026-78428-6",
@@ -1256,7 +1272,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-09T15:19:02+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://europepmc.org/article/PMC/PMC13647328",
@@ -1276,7 +1292,7 @@
       ],
       "relevance": 75,
       "first_seen": "2026-10-09T15:19:02+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.08.757629",
@@ -1295,28 +1311,8 @@
         "Affinity & simulation"
       ],
       "relevance": 75,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
-      "id": "https://arxiv.org/abs/2610.13917",
-      "title": "Designing Protein Structures from Natural Language",
-      "url": "https://arxiv.org/abs/2610.13917v1",
-      "published": "2026-10-09",
-      "source": "arXiv",
-      "kind": "Preprints",
-      "doi": null,
-      "collected_from": "arxiv",
-      "subjects": [
-        "Protein design"
-      ],
-      "methods": [
-        "Generative design",
-        "Data & software"
-      ],
-      "relevance": 75,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c02272",
@@ -1335,7 +1331,7 @@
       ],
       "relevance": 70,
       "first_seen": "2026-10-09T20:55:37+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15004571/v3",
@@ -1430,7 +1426,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-09T15:19:02+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1038/s41467-026-78123-6",
@@ -1449,7 +1445,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-09T15:19:02+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://europepmc.org/article/PMC/PMC13646721",
@@ -1468,7 +1464,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-09T15:19:02+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.21203/rs.3.rs-10789465/v1",
@@ -1489,8 +1485,8 @@
         "Experimental discovery"
       ],
       "relevance": 95,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.01.755933",
@@ -1510,8 +1506,8 @@
         "Generative design"
       ],
       "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.02.756215",
@@ -1531,8 +1527,8 @@
         "Data & software"
       ],
       "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c02851",
@@ -1553,7 +1549,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-10-08T15:38:13+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.01.755314",
@@ -1574,7 +1570,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-10-09T06:10:42+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/crisslind/selectivity-pcm",
@@ -1597,7 +1593,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-09T15:19:02+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15010093/v1",
@@ -1640,7 +1636,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-08T06:06:24+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.07.757394",
@@ -1660,8 +1656,8 @@
         "ADMET & properties"
       ],
       "relevance": 85,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.01.756031",
@@ -1681,7 +1677,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-10T05:54:17+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01656",
@@ -1700,7 +1696,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-08T21:20:50+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.5c03068",
@@ -1719,7 +1715,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-08T21:20:50+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15001038/v2",
@@ -1781,7 +1777,7 @@
       ],
       "relevance": 75,
       "first_seen": "2026-10-08T15:38:13+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.07.757460",
@@ -1800,7 +1796,7 @@
       ],
       "relevance": 70,
       "first_seen": "2026-10-09T06:10:42+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.5c03556",
@@ -1820,7 +1816,7 @@
       ],
       "relevance": 70,
       "first_seen": "2026-10-08T21:20:50+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01659",
@@ -1840,7 +1836,7 @@
       ],
       "relevance": 65,
       "first_seen": "2026-10-08T15:38:13+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01872",
@@ -1859,7 +1855,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-08T21:20:50+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1038/s41467-026-78312-3",
@@ -1897,7 +1893,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-10T20:04:40+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1038/s41467-026-77653-3",
@@ -1935,7 +1931,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-08T15:38:13+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c02324",
@@ -1954,7 +1950,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-08T21:20:50+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.21203/rs.3.rs-11092477/v1",
@@ -1977,8 +1973,8 @@
         "Experimental discovery"
       ],
       "relevance": 100,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.20944/preprints202610.0383.v1",
@@ -2003,7 +1999,32 @@
       ],
       "relevance": 100,
       "first_seen": "2026-10-09T06:10:42+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
+    },
+    {
+      "id": "https://github.com/terravic/pde-agent-plugin",
+      "title": "terravic/pde-agent-plugin",
+      "url": "https://github.com/terravic/pde-agent-plugin",
+      "published": "2026-10-07",
+      "source": "GitHub",
+      "kind": "Code",
+      "doi": null,
+      "code_url": "https://github.com/terravic/pde-agent-plugin",
+      "event": "New repository",
+      "stars": 0,
+      "collected_from": "github",
+      "subjects": [
+        "Small molecules"
+      ],
+      "methods": [
+        "Cheminformatics",
+        "Docking & screening",
+        "ADMET & properties",
+        "Data & software"
+      ],
+      "relevance": 95,
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c01429",
@@ -2025,7 +2046,7 @@
       ],
       "relevance": 95,
       "first_seen": "2026-10-07T15:33:59+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://europepmc.org/article/PMC/PMC13641121",
@@ -2046,7 +2067,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-10-07T15:33:59+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.5c03789",
@@ -2067,7 +2088,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-10-07T21:19:00+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c03088",
@@ -2088,7 +2109,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-07T06:02:07+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/Marooncoloredchair/PocketBench",
@@ -2111,7 +2132,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-07T06:02:07+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c02120",
@@ -2131,28 +2152,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-07T21:19:00+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
-      "id": "https://arxiv.org/abs/2610.09548",
-      "title": "De novo design of monoclonal and bispecific antibodies with OFAntibody",
-      "url": "https://arxiv.org/abs/2610.09548v1",
-      "published": "2026-10-07",
-      "source": "arXiv",
-      "kind": "Preprints",
-      "doi": null,
-      "collected_from": "arxiv",
-      "subjects": [
-        "Antibodies",
-        "Protein design"
-      ],
-      "methods": [
-        "Generative design",
-        "Data & software"
-      ],
-      "relevance": 85,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://arxiv.org/abs/2610.09643",
@@ -2194,7 +2194,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-07T21:19:00+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.5c03559",
@@ -2213,7 +2213,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-07T21:19:00+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.06.756934",
@@ -2233,8 +2233,8 @@
         "Data & software"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01340",
@@ -2254,7 +2254,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-07T21:19:00+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/chemaiatlas/chemistry-ai-recipes",
@@ -2276,7 +2276,7 @@
       ],
       "relevance": 70,
       "first_seen": "2026-10-07T15:33:59+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1038/s41467-026-78239-9",
@@ -2335,7 +2335,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-07T21:19:00+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01683",
@@ -2354,7 +2354,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-07T15:33:59+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01990",
@@ -2373,7 +2373,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-07T21:19:00+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c02217",
@@ -2396,7 +2396,7 @@
       ],
       "relevance": 100,
       "first_seen": "2026-10-06T11:17:31+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c02098",
@@ -2417,7 +2417,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-10-06T18:23:11+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.21203/rs.3.rs-10788745/v1",
@@ -2438,8 +2438,8 @@
         "Experimental discovery"
       ],
       "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/bioscinetwork/ADSP",
@@ -2462,7 +2462,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-07T06:02:07+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c01818",
@@ -2482,7 +2482,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-06T11:17:31+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01653",
@@ -2502,7 +2502,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-06T18:23:11+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15009996/v1",
@@ -2543,8 +2543,8 @@
         "Data & software"
       ],
       "relevance": 85,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.21203/rs.3.rs-11093091/v1",
@@ -2563,8 +2563,8 @@
         "Synthesis planning"
       ],
       "relevance": 85,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/wangshubo1578/herb-target-screening",
@@ -2586,7 +2586,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-06T11:17:31+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.21203/rs.3.rs-10899820/v1",
@@ -2606,8 +2606,8 @@
         "Data & software"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1186/s13321-026-01312-4",
@@ -2626,7 +2626,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-06T18:23:11+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.05.756719",
@@ -2647,48 +2647,8 @@
         "AI & machine learning"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
-      "id": "https://arxiv.org/abs/2610.08367",
-      "title": "Evolutionary One-Step Generators: Fast and Diverse Sampling for Discrete Design",
-      "url": "https://arxiv.org/abs/2610.08367v1",
-      "published": "2026-10-06",
-      "source": "arXiv",
-      "kind": "Preprints",
-      "doi": null,
-      "collected_from": "arxiv",
-      "subjects": [
-        "Small molecules"
-      ],
-      "methods": [
-        "Cheminformatics",
-        "Generative design",
-        "Data & software"
-      ],
-      "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
-      "id": "https://arxiv.org/abs/2610.08736",
-      "title": "Entropy-Guided Reverse-Causal AI to Identify Upstream Bottleneck Genes for Alzheimer's Drug Discovery",
-      "url": "https://arxiv.org/abs/2610.08736v1",
-      "published": "2026-10-06",
-      "source": "arXiv",
-      "kind": "Preprints",
-      "doi": null,
-      "collected_from": "arxiv",
-      "subjects": [
-        "Discovery methods"
-      ],
-      "methods": [
-        "Discovery research"
-      ],
-      "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15003792/v2",
@@ -2726,7 +2686,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-06T11:17:31+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1038/s41598-026-74049-7",
@@ -2787,7 +2747,7 @@
       ],
       "relevance": 75,
       "first_seen": "2026-10-07T06:02:07+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c02332",
@@ -2808,7 +2768,7 @@
       ],
       "relevance": 70,
       "first_seen": "2026-10-06T23:49:19+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.05.756407",
@@ -2826,8 +2786,8 @@
         "Generative design"
       ],
       "relevance": 70,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15004452/v5",
@@ -2885,7 +2845,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-06T18:23:11+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15009967/v1",
@@ -2925,7 +2885,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-06T18:23:11+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1038/s41589-026-02306-x",
@@ -2944,7 +2904,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-06T11:17:31+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/AnhDuongVo/ai-scientist",
@@ -2966,7 +2926,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-06T23:49:19+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.21203/rs.3.rs-11082767/v1",
@@ -2987,8 +2947,8 @@
         "Generative design"
       ],
       "relevance": 95,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.21203/rs.3.rs-11008353/v1",
@@ -3008,8 +2968,8 @@
         "Experimental discovery"
       ],
       "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.12688/f1000research.186494.1",
@@ -3029,8 +2989,8 @@
         "Data & software"
       ],
       "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1007/s10867-026-09728-7",
@@ -3050,8 +3010,8 @@
         "Data & software"
       ],
       "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.21203/rs.3.rs-11003141/v1",
@@ -3071,8 +3031,8 @@
         "Data & software"
       ],
       "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c02521",
@@ -3092,27 +3052,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-05T17:09:30+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
-      "id": "https://arxiv.org/abs/2610.07079",
-      "title": "Few-Shot Bioactivity Prediction with Meta-Learning under Assay Heterogeneity",
-      "url": "https://arxiv.org/abs/2610.07079v1",
-      "published": "2026-10-05",
-      "source": "arXiv",
-      "kind": "Preprints",
-      "doi": null,
-      "collected_from": "arxiv",
-      "subjects": [
-        "Small molecules"
-      ],
-      "methods": [
-        "Data & software",
-        "Experimental discovery"
-      ],
-      "relevance": 85,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/khelverskovp/atom-jepa",
@@ -3124,7 +3064,7 @@
       "doi": null,
       "code_url": "https://github.com/khelverskovp/atom-jepa",
       "event": "New repository",
-      "stars": 5,
+      "stars": 6,
       "collected_from": "github",
       "subjects": [
         "Discovery methods"
@@ -3134,7 +3074,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-10T05:54:17+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.09.29.755250",
@@ -3152,8 +3092,8 @@
         "Discovery research"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1186/s43556-026-00542-0",
@@ -3172,8 +3112,8 @@
         "Docking & screening"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://arxiv.org/abs/2610.07478",
@@ -3213,7 +3153,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-06T01:18:33+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/setsun-ai/qspr-microplastic-sorption",
@@ -3236,7 +3176,7 @@
       ],
       "relevance": 75,
       "first_seen": "2026-10-05T17:09:30+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/setsun-ai/cheminformatics-chemical-space",
@@ -3282,7 +3222,7 @@
       ],
       "relevance": 75,
       "first_seen": "2026-10-05T05:42:22+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/anagnorisis2peripeteia/cabiln",
@@ -3306,7 +3246,7 @@
       ],
       "relevance": 75,
       "first_seen": "2026-10-05T17:09:30+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15009936/v1",
@@ -3348,7 +3288,7 @@
       ],
       "relevance": 70,
       "first_seen": "2026-10-06T01:18:33+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1186/s13321-026-01299-y",
@@ -3368,7 +3308,7 @@
       ],
       "relevance": 65,
       "first_seen": "2026-10-05T17:09:30+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01446",
@@ -3387,7 +3327,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-06T01:18:33+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.09.28.755125",
@@ -3407,8 +3347,8 @@
         "Data & software"
       ],
       "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/nicospinu/howpharma.ai",
@@ -3431,7 +3371,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-06T23:49:19+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/jibeomko/docking-score-audit",
@@ -3454,27 +3394,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-04T05:55:14+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
-      "id": "https://arxiv.org/abs/2610.05397",
-      "title": "Efficient Graph Generation via Direct Prediction and Flow Matching",
-      "url": "https://arxiv.org/abs/2610.05397v1",
-      "published": "2026-10-04",
-      "source": "arXiv",
-      "kind": "Preprints",
-      "doi": null,
-      "collected_from": "arxiv",
-      "subjects": [
-        "Discovery methods"
-      ],
-      "methods": [
-        "Generative design",
-        "Data & software"
-      ],
-      "relevance": 85,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01678",
@@ -3493,7 +3413,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-04T19:38:31+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1002/anie.5679433",
@@ -3512,28 +3432,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-05T05:42:22+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
-      "id": "https://arxiv.org/abs/2610.05125",
-      "title": "Bayesian Entropy-based Reordering for Calibrated Diffusion Language Models",
-      "url": "https://arxiv.org/abs/2610.05125v1",
-      "published": "2026-10-04",
-      "source": "arXiv",
-      "kind": "Preprints",
-      "doi": null,
-      "collected_from": "arxiv",
-      "subjects": [
-        "Discovery methods"
-      ],
-      "methods": [
-        "Generative design",
-        "AI & machine learning",
-        "Data & software"
-      ],
-      "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1016/j.ijpharm.2026.127497",
@@ -3551,8 +3450,8 @@
         "ADMET & properties"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/A7m0spHere/dsh-chem-editor",
@@ -3574,7 +3473,7 @@
       ],
       "relevance": 70,
       "first_seen": "2026-10-05T17:09:30+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1080/07853890.2026.2738261",
@@ -3593,8 +3492,8 @@
         "Data & software"
       ],
       "relevance": 65,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01380",
@@ -3613,7 +3512,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-04T19:38:31+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1002/advs.78029",
@@ -3631,8 +3530,8 @@
         "Data & software"
       ],
       "relevance": 60,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01981",
@@ -3651,7 +3550,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-04T19:38:31+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c02162",
@@ -3670,7 +3569,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-04T19:38:31+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01822",
@@ -3689,7 +3588,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-04T19:38:31+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1016/j.compbiomed.2026.111970",
@@ -3710,8 +3609,8 @@
         "Data & software"
       ],
       "relevance": 95,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1080/19490976.2026.2726629",
@@ -3731,8 +3630,8 @@
         "Experimental discovery"
       ],
       "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1016/j.ejps.2026.107679",
@@ -3752,8 +3651,8 @@
         "Experimental discovery"
       ],
       "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1007/s10822-026-00943-x",
@@ -3774,7 +3673,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-10-04T14:05:19+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1093/toxsci/kfag124",
@@ -3794,8 +3693,8 @@
         "Experimental discovery"
       ],
       "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/whlym248/medchem-human-loop",
@@ -3818,7 +3717,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-03T13:23:53+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/rdkit/rdkit/releases/tag/Release_2026_09_1",
@@ -3841,7 +3740,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-03T13:23:53+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c00544",
@@ -3862,7 +3761,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-03T19:14:12+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1007/s10123-026-00903-3",
@@ -3883,8 +3782,8 @@
         "Experimental discovery"
       ],
       "relevance": 85,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1007/s10822-026-00940-0",
@@ -3904,26 +3803,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-04T14:05:19+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
-      "id": "https://arxiv.org/abs/2610.04740",
-      "title": "Toward a Locally Deployable Agentic Co-Scientist: Small-Model Planning for Early-Stage Drug Discovery",
-      "url": "https://arxiv.org/abs/2610.04740v1",
-      "published": "2026-10-03",
-      "source": "arXiv",
-      "kind": "Preprints",
-      "doi": null,
-      "collected_from": "arxiv",
-      "subjects": [
-        "Discovery methods"
-      ],
-      "methods": [
-        "AI & machine learning"
-      ],
-      "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/Shreyasderaje/AMR-Q",
@@ -3945,7 +3825,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-04T05:55:14+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1016/j.drudis.2026.104823",
@@ -3964,7 +3844,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-04T14:05:19+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://europepmc.org/article/PMC/PMC13625961",
@@ -3983,7 +3863,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-03T13:23:53+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1016/j.ijpharm.2026.127485",
@@ -4002,7 +3882,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-04T14:05:19+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1016/j.jconrel.2026.115431",
@@ -4023,8 +3903,8 @@
         "Discovery research"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.02.756213",
@@ -4042,8 +3922,8 @@
         "Docking & screening"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/unikaive730/hn7",
@@ -4087,7 +3967,7 @@
       ],
       "relevance": 70,
       "first_seen": "2026-10-03T23:05:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1111/nph.71629",
@@ -4106,8 +3986,8 @@
         "Docking & screening"
       ],
       "relevance": 70,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c01771",
@@ -4128,7 +4008,7 @@
       ],
       "relevance": 65,
       "first_seen": "2026-10-03T05:20:19+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1039/d6tb01765g",
@@ -4149,7 +4029,7 @@
       ],
       "relevance": 65,
       "first_seen": "2026-10-03T13:23:53+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1007/s10495-026-02451-7",
@@ -4167,8 +4047,8 @@
         "AI & machine learning"
       ],
       "relevance": 60,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1016/j.jsbmb.2026.107125",
@@ -4189,8 +4069,8 @@
         "Experimental discovery"
       ],
       "relevance": 95,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/Yaseenchemist/REINVENT4-AI-Molecular-Generation-SAR-Guide",
@@ -4214,7 +4094,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-10-06T01:18:33+00:00",
-      "last_seen": "2026-10-06T01:18:33+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c02796",
@@ -4235,7 +4115,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-10-02T14:44:58+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c02173",
@@ -4256,7 +4136,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-10-03T05:20:19+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1155/da/6981320",
@@ -4277,8 +4157,8 @@
         "Data & software"
       ],
       "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1007/s12031-026-02606-w",
@@ -4300,8 +4180,8 @@
         "Data & software"
       ],
       "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.20944/preprints202610.0128.v1",
@@ -4322,7 +4202,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-10-03T05:20:19+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/truthfree/EviDrug",
@@ -4345,7 +4225,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-02T05:39:48+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/naokiwifruit/ood-molprop",
@@ -4368,7 +4248,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-06T11:17:31+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/Yaseenchemist/Pharmacophore-Modeling-3D-Similarity-Tutorial",
@@ -4391,7 +4271,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-02T14:44:58+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/Vishalnagar410/chem-structure-qc",
@@ -4435,29 +4315,8 @@
         "Experimental discovery"
       ],
       "relevance": 85,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
-      "id": "https://arxiv.org/abs/2610.03456",
-      "title": "Beyond Random Splits: Evaluating Drug-Target Affinity Models Under Chemically and Biologically Motivated Distribution Shifts Copy",
-      "url": "https://arxiv.org/abs/2610.03456v1",
-      "published": "2026-10-02",
-      "source": "arXiv",
-      "kind": "Preprints",
-      "doi": null,
-      "collected_from": "arxiv",
-      "subjects": [
-        "Small molecules",
-        "Target discovery"
-      ],
-      "methods": [
-        "Cheminformatics",
-        "Data & software"
-      ],
-      "relevance": 85,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1016/j.vascn.2026.108578",
@@ -4476,8 +4335,8 @@
         "Experimental discovery"
       ],
       "relevance": 85,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1016/j.jare.2026.10.002",
@@ -4496,8 +4355,8 @@
         "AI & machine learning"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15007103/v2",
@@ -4534,8 +4393,8 @@
         "ADMET & properties"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1016/j.yjmcc.2026.10.001",
@@ -4553,8 +4412,8 @@
         "Generative design"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.09.26.754739",
@@ -4572,8 +4431,8 @@
         "Docking & screening"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.10.01.754751",
@@ -4591,8 +4450,8 @@
         "Generative design"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.20944/preprints202610.0084.v1",
@@ -4610,8 +4469,8 @@
         "Generative design"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/xav1c34/ChemoSuite",
@@ -4634,7 +4493,7 @@
       ],
       "relevance": 75,
       "first_seen": "2026-10-05T17:09:30+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/xav1c34/NOM-SPECTRa",
@@ -4678,7 +4537,7 @@
       ],
       "relevance": 70,
       "first_seen": "2026-10-07T21:19:00+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1038/s42004-026-02207-z",
@@ -4699,7 +4558,7 @@
       ],
       "relevance": 70,
       "first_seen": "2026-10-02T14:44:58+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://arxiv.org/abs/2610.02924",
@@ -4721,26 +4580,6 @@
       "last_seen": "2026-10-12T17:56:32+00:00"
     },
     {
-      "id": "https://arxiv.org/abs/2610.03992",
-      "title": "MathAgent: Multi-Agent Optimization of Mathematical Invariants for Molecular Property Prediction",
-      "url": "https://arxiv.org/abs/2610.03992v1",
-      "published": "2026-10-02",
-      "source": "arXiv",
-      "kind": "Preprints",
-      "doi": null,
-      "collected_from": "arxiv",
-      "subjects": [
-        "Small molecules"
-      ],
-      "methods": [
-        "ADMET & properties",
-        "Data & software"
-      ],
-      "relevance": 65,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
       "id": "doi:10.1021/acs.jmedchem.5c03851",
       "title": "Discovery of LB10, a Potent and Orally Bioavailable Inhibitor of Ecto-5′-Nucleotidase as a Single Agent or in Combination for the Treatment of Lung Cancer",
       "url": "https://doi.org/10.1021/acs.jmedchem.5c03851",
@@ -4759,7 +4598,7 @@
       ],
       "relevance": 65,
       "first_seen": "2026-10-02T20:46:18+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1186/s11671-026-04928-5",
@@ -4778,7 +4617,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-05T17:09:30+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1007/s10142-026-02052-2",
@@ -4800,8 +4639,8 @@
         "Experimental discovery"
       ],
       "relevance": 100,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c01636",
@@ -4823,7 +4662,7 @@
       ],
       "relevance": 95,
       "first_seen": "2026-10-01T15:27:59+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1007/s10822-026-00947-7",
@@ -4867,7 +4706,7 @@
       ],
       "relevance": 95,
       "first_seen": "2026-10-01T15:27:59+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1111/cbdd.70408",
@@ -4978,7 +4817,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-10-01T15:27:59+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c01658",
@@ -5001,7 +4840,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-10-02T05:39:48+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1002/cmdc.70504",
@@ -5064,7 +4903,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-09-23T07:51:19+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/nikhil-kunapareddy/TheraGraph",
@@ -5087,7 +4926,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-02T05:39:48+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15009731/v1",
@@ -5130,7 +4969,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-12T06:00:18+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://arxiv.org/abs/2610.02189",
@@ -5176,7 +5015,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-01T15:27:59+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c02178",
@@ -5198,7 +5037,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-01T21:02:16+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1007/s10822-026-00944-w",
@@ -5238,28 +5077,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-05T17:09:30+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
-      "id": "https://arxiv.org/abs/2610.01773",
-      "title": "CODesign: Consistency from Data to Trajectory in All-Atom Protein Binder Co-Design",
-      "url": "https://arxiv.org/abs/2610.01773v1",
-      "published": "2026-10-01",
-      "source": "arXiv",
-      "kind": "Preprints",
-      "doi": null,
-      "collected_from": "arxiv",
-      "subjects": [
-        "Small molecules",
-        "Protein design"
-      ],
-      "methods": [
-        "Generative design",
-        "Data & software"
-      ],
-      "relevance": 85,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1111/exd.70367",
@@ -5277,8 +5095,8 @@
         "Generative design"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1093/bioinformatics/btag694",
@@ -5301,25 +5119,6 @@
       "last_seen": "2026-10-08T21:20:50+00:00"
     },
     {
-      "id": "https://arxiv.org/abs/2610.01827",
-      "title": "Scientific Discovery under Validation Congestion via Multi-Fidelity Pairwise Rankings",
-      "url": "https://arxiv.org/abs/2610.01827v1",
-      "published": "2026-10-01",
-      "source": "arXiv",
-      "kind": "Preprints",
-      "doi": null,
-      "collected_from": "arxiv",
-      "subjects": [
-        "Discovery methods"
-      ],
-      "methods": [
-        "AI & machine learning"
-      ],
-      "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
       "id": "doi:10.1002/anie.3191334",
       "title": "Ligand-Directed Molecular Beacons as Turn-On Fluorescent Probes for Sensing Cell-Surface Receptor-Ligand Interactions.",
       "url": "https://doi.org/10.1002/anie.3191334",
@@ -5336,7 +5135,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-02T14:44:58+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1002/ardp.70353",
@@ -5354,29 +5153,8 @@
         "Discovery research"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
-      "id": "https://arxiv.org/abs/2610.02186",
-      "title": "Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry",
-      "url": "https://arxiv.org/abs/2610.02186v1",
-      "published": "2026-10-01",
-      "source": "arXiv",
-      "kind": "Preprints",
-      "doi": null,
-      "collected_from": "arxiv",
-      "subjects": [
-        "Discovery methods"
-      ],
-      "methods": [
-        "Generative design",
-        "AI & machine learning",
-        "Data & software"
-      ],
-      "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1111/cts.70734",
@@ -5415,8 +5193,8 @@
         "Experimental discovery"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1111/liv.70850",
@@ -5434,8 +5212,8 @@
         "Discovery research"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1111/1750-3841.71525",
@@ -5453,8 +5231,8 @@
         "Discovery research"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.3899/jrheum.2026-0574",
@@ -5472,8 +5250,8 @@
         "Experimental discovery"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1002/cmdc.70508",
@@ -5511,28 +5289,8 @@
         "AI & machine learning"
       ],
       "relevance": 75,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
-      "id": "https://arxiv.org/abs/2610.01382",
-      "title": "Gacha Decoding: Eliciting Diverse Generations Through Instruction Following",
-      "url": "https://arxiv.org/abs/2610.01382v1",
-      "published": "2026-10-01",
-      "source": "arXiv",
-      "kind": "Preprints",
-      "doi": null,
-      "collected_from": "arxiv",
-      "subjects": [
-        "Protein design"
-      ],
-      "methods": [
-        "Generative design",
-        "AI & machine learning"
-      ],
-      "relevance": 75,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1158/2159-8290.cd-rw2026-081",
@@ -5591,7 +5349,7 @@
       ],
       "relevance": 70,
       "first_seen": "2026-10-10T20:04:40+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://macinchem.org/2026/10/01/clustering",
@@ -5610,7 +5368,7 @@
       ],
       "relevance": 70,
       "first_seen": "2026-10-01T15:27:59+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1038/d41573-026-00143-0",
@@ -5648,8 +5406,8 @@
         "Data & software"
       ],
       "relevance": 65,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1136/jitc-2026-016896",
@@ -5668,8 +5426,8 @@
         "Data & software"
       ],
       "relevance": 65,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1002/cmdc.70485",
@@ -5689,7 +5447,7 @@
       ],
       "relevance": 65,
       "first_seen": "2026-10-05T17:09:30+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1002/clc.70482",
@@ -5708,8 +5466,8 @@
         "Data & software"
       ],
       "relevance": 65,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1002/cmdc.70336",
@@ -5729,7 +5487,7 @@
       ],
       "relevance": 65,
       "first_seen": "2026-10-05T17:09:30+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c02266",
@@ -5749,7 +5507,7 @@
       ],
       "relevance": 65,
       "first_seen": "2026-10-02T05:39:48+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c02473",
@@ -5770,7 +5528,7 @@
       ],
       "relevance": 65,
       "first_seen": "2026-10-01T15:27:59+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1038/s41592-026-03243-2",
@@ -5789,7 +5547,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-01T15:27:59+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1007/s10822-026-00931-1",
@@ -5828,7 +5586,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-09-23T07:51:19+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1158/0008-5472.can-25-4403",
@@ -5846,8 +5604,8 @@
         "Data & software"
       ],
       "relevance": 60,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1097/md.0000000000050651",
@@ -5865,8 +5623,8 @@
         "Data & software"
       ],
       "relevance": 60,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1002/cmdc.70525",
@@ -5885,7 +5643,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-06T18:23:11+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01476",
@@ -5904,7 +5662,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-01T15:27:59+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c01817",
@@ -5923,7 +5681,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-02T05:39:48+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1186/s40364-026-01008-9",
@@ -5941,8 +5699,8 @@
         "Experimental discovery"
       ],
       "relevance": 60,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1093/ajrccm/aamag396",
@@ -5960,8 +5718,8 @@
         "Experimental discovery"
       ],
       "relevance": 60,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://europepmc.org/article/PMC/PMC13648549",
@@ -5980,30 +5738,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-09T15:19:02+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
-      "id": "https://arxiv.org/abs/2609.38744",
-      "title": "Molecular Property Prediction under Structural Shift with Tabular Foundation Models",
-      "url": "https://arxiv.org/abs/2609.38744v1",
-      "published": "2026-09-30",
-      "source": "arXiv",
-      "kind": "Preprints",
-      "doi": null,
-      "collected_from": "arxiv",
-      "code_url": "https://github.com/nums-ai/MolPAIR",
-      "subjects": [
-        "Small molecules"
-      ],
-      "methods": [
-        "Cheminformatics",
-        "ADMET & properties",
-        "AI & machine learning",
-        "Data & software"
-      ],
-      "relevance": 95,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c02181",
@@ -6025,7 +5760,7 @@
       ],
       "relevance": 95,
       "first_seen": "2026-09-30T20:49:27+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/rogersgarryzn-dev/qsar-molecular-prediction-project",
@@ -6069,8 +5804,8 @@
         "Experimental discovery"
       ],
       "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c01733",
@@ -6091,7 +5826,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-09-30T14:56:19+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/mukherjeesutanu/allo-classifier",
@@ -6114,7 +5849,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-09-30T14:56:19+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c01734",
@@ -6134,7 +5869,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-09-30T14:56:19+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15009706/v1",
@@ -6175,7 +5910,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-09-30T20:49:27+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.32388/a1ntll",
@@ -6255,7 +5990,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-09-30T20:49:27+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1038/s41586-026-10965-y",
@@ -6275,8 +6010,8 @@
         "AI & machine learning"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1002/chem.71737",
@@ -6296,8 +6031,8 @@
         "Discovery research"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1002/anie.1701592",
@@ -6373,8 +6108,8 @@
         "Generative design"
       ],
       "relevance": 75,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15009353/v2",
@@ -6416,7 +6151,7 @@
       ],
       "relevance": 70,
       "first_seen": "2026-09-30T20:49:27+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1002/smtd.71078",
@@ -6454,7 +6189,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-09-30T20:49:27+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://europepmc.org/article/PMC/PMC13619834",
@@ -6511,7 +6246,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-09-30T20:49:27+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c02422",
@@ -6530,7 +6265,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-09-30T20:49:27+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1038/s41592-026-03224-5",
@@ -6549,7 +6284,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-09-30T14:56:19+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1038/s41467-026-78065-z",
@@ -6591,7 +6326,7 @@
       ],
       "relevance": 100,
       "first_seen": "2026-09-29T18:05:57+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.2174/0113895575488034260914054438",
@@ -6614,8 +6349,8 @@
         "Experimental discovery"
       ],
       "relevance": 100,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/Qasim-Hussain-Code/vina_litpcba_virtual_screening_pipeline",
@@ -6640,7 +6375,7 @@
       ],
       "relevance": 95,
       "first_seen": "2026-09-29T10:42:27+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c00304",
@@ -6662,7 +6397,7 @@
       ],
       "relevance": 95,
       "first_seen": "2026-09-29T23:44:18+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1007/s00210-026-05953-y",
@@ -6749,7 +6484,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-09-30T05:34:06+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c02172",
@@ -6770,7 +6505,7 @@
       ],
       "relevance": 90,
       "first_seen": "2026-09-30T05:34:06+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://arxiv.org/abs/2609.37555",
@@ -6814,7 +6549,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-09-30T05:34:06+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/Victor-Xu-1/X-DDE",
@@ -6837,7 +6572,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-08T06:06:24+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c02030",
@@ -6859,7 +6594,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-09-29T18:05:57+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://arxiv.org/abs/2609.37384",
@@ -6900,7 +6635,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-01T15:27:59+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/Hiba-MHADA/De-Novo-Molecular-Generation",
@@ -6923,7 +6658,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-09-29T23:44:18+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/DrGregPitch/SMPro1",
@@ -6946,7 +6681,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-06T11:17:31+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1039/d6an00710d",
@@ -6966,8 +6701,8 @@
         "Data & software"
       ],
       "relevance": 85,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/ishandutta2007/Awesome-Drug-Discovery-AI",
@@ -6989,7 +6724,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-04T05:55:14+00:00",
-      "last_seen": "2026-10-06T01:18:33+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/ishandutta2007/Awesome-Chemical-Registration",
@@ -7011,7 +6746,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-01T05:56:28+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c02393",
@@ -7030,7 +6765,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-09-29T18:05:57+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1016/j.bioorg.2026.110590",
@@ -7049,8 +6784,8 @@
         "Experimental discovery"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1016/j.ejmech.2026.119380",
@@ -7088,8 +6823,8 @@
         "Experimental discovery"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/YumeAyai/dsh-swiss-target",
@@ -7112,7 +6847,7 @@
       ],
       "relevance": 75,
       "first_seen": "2026-09-29T18:05:57+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1111/febs.70751",
@@ -7132,7 +6867,7 @@
       ],
       "relevance": 75,
       "first_seen": "2026-10-01T15:27:59+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/Steinbeck-Lab/Orthonym",
@@ -7155,7 +6890,7 @@
       ],
       "relevance": 75,
       "first_seen": "2026-10-03T19:14:12+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.09.28.754888",
@@ -7174,8 +6909,8 @@
         "AI & machine learning"
       ],
       "relevance": 75,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01147",
@@ -7194,7 +6929,7 @@
       ],
       "relevance": 70,
       "first_seen": "2026-09-29T18:05:57+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/Kohulan/orthonym-skills",
@@ -7216,7 +6951,7 @@
       ],
       "relevance": 70,
       "first_seen": "2026-09-30T14:56:19+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1016/j.bpj.2026.09.042",
@@ -7234,8 +6969,8 @@
         "Generative design"
       ],
       "relevance": 70,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c02358",
@@ -7254,7 +6989,7 @@
       ],
       "relevance": 70,
       "first_seen": "2026-09-30T05:34:06+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c02509",
@@ -7274,7 +7009,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-09-29T18:05:57+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1186/s43046-026-00415-1",
@@ -7439,8 +7174,8 @@
         "ADMET & properties"
       ],
       "relevance": 85,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1515/jib-2025-0072",
@@ -7541,8 +7276,8 @@
         "ADMET & properties"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1038/s41467-026-78122-7",
@@ -7600,27 +7335,8 @@
         "Data & software"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
-      "id": "https://arxiv.org/abs/2609.35623",
-      "title": "RIDE: Reference-Anchored Inference-Time Diffusion Editing for Scaffold Hopping",
-      "url": "https://arxiv.org/abs/2609.35623v1",
-      "published": "2026-09-28",
-      "source": "arXiv",
-      "kind": "Preprints",
-      "doi": null,
-      "collected_from": "arxiv",
-      "subjects": [
-        "Small molecules"
-      ],
-      "methods": [
-        "Discovery research"
-      ],
-      "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1016/j.drudis.2026.104818",
@@ -7658,26 +7374,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-09-29T18:05:57+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
-      "id": "https://arxiv.org/abs/2609.35106",
-      "title": "DRIFT: Disentangled Responsive-Invariant Flow Transport for Single-Cell Perturbation Prediction",
-      "url": "https://arxiv.org/abs/2609.35106v1",
-      "published": "2026-09-28",
-      "source": "arXiv",
-      "kind": "Preprints",
-      "doi": null,
-      "collected_from": "arxiv",
-      "subjects": [
-        "Discovery methods"
-      ],
-      "methods": [
-        "Data & software"
-      ],
-      "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.64898/2026.09.23.753608",
@@ -7696,7 +7393,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-01T15:27:59+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1111/1744-7917.70375",
@@ -7736,8 +7433,8 @@
         "Data & software"
       ],
       "relevance": 75,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.26434/chemrxiv.15008496/v3",
@@ -7799,8 +7496,8 @@
         "Data & software"
       ],
       "relevance": 70,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c01414",
@@ -7902,8 +7599,8 @@
         "ADMET & properties"
       ],
       "relevance": 60,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/drjoykarmakar/egfr-virtual-screen",
@@ -8015,27 +7712,6 @@
       "relevance": 85,
       "first_seen": "2026-09-27T14:00:03+00:00",
       "last_seen": "2026-10-11T20:18:26+00:00"
-    },
-    {
-      "id": "doi:10.1016/j.fitote.2026.107495",
-      "title": "Cytochrome P450 enzymes in the biosynthesis of bioactive diterpenoids from traditional chinese medicinal plants.",
-      "url": "https://doi.org/10.1016/j.fitote.2026.107495",
-      "published": "2026-09-27",
-      "source": "Fitoterapia",
-      "kind": "Journals",
-      "doi": "10.1016/j.fitote.2026.107495",
-      "collected_from": "epmc-biologics",
-      "subjects": [
-        "Small molecules",
-        "Protein design"
-      ],
-      "methods": [
-        "Generative design",
-        "AI & machine learning"
-      ],
-      "relevance": 85,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
     },
     {
       "id": "https://arxiv.org/abs/2609.34001",
@@ -8160,26 +7836,6 @@
       "relevance": 80,
       "first_seen": "2026-09-27T23:04:13+00:00",
       "last_seen": "2026-10-11T20:18:26+00:00"
-    },
-    {
-      "id": "doi:10.1002/advs.77938",
-      "title": "In Situ Bioorthogonal Synthesis of PROTACs via Dual-Responsive Cleavage for Synergistic Photo-Immunotherapy.",
-      "url": "https://doi.org/10.1002/advs.77938",
-      "published": "2026-09-27",
-      "source": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-      "kind": "Journals",
-      "doi": "10.1002/advs.77938",
-      "collected_from": "epmc-biologics",
-      "subjects": [
-        "Peptides",
-        "Other modalities"
-      ],
-      "methods": [
-        "ADMET & properties"
-      ],
-      "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c02736",
@@ -8307,27 +7963,6 @@
       "relevance": 75,
       "first_seen": "2026-09-27T23:04:13+00:00",
       "last_seen": "2026-10-11T20:18:26+00:00"
-    },
-    {
-      "id": "doi:10.1002/advs.77932",
-      "title": "Degrading GPX4 via Biomimetic Nanoparticle-Mediated In Situ Synthesis of Deep-Learning-Designed Binder-Degron Chimeras for Prostate Cancer Therapy.",
-      "url": "https://doi.org/10.1002/advs.77932",
-      "published": "2026-09-27",
-      "source": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-      "kind": "Journals",
-      "doi": "10.1002/advs.77932",
-      "collected_from": "epmc-biologics",
-      "subjects": [
-        "Discovery methods"
-      ],
-      "methods": [
-        "ADMET & properties",
-        "Generative design",
-        "AI & machine learning"
-      ],
-      "relevance": 70,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
     },
     {
       "id": "doi:10.1002/mco2.71030",
@@ -8520,26 +8155,6 @@
       "last_seen": "2026-10-09T06:10:42+00:00"
     },
     {
-      "id": "doi:10.1016/j.biopha.2026.119953",
-      "title": "Emerging role of plant-derived extracellular vesicles in human health and disease.",
-      "url": "https://doi.org/10.1016/j.biopha.2026.119953",
-      "published": "2026-09-26",
-      "source": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
-      "kind": "Journals",
-      "doi": "10.1016/j.biopha.2026.119953",
-      "collected_from": "epmc-biologics",
-      "subjects": [
-        "Target discovery"
-      ],
-      "methods": [
-        "ADMET & properties",
-        "Experimental discovery"
-      ],
-      "relevance": 85,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
       "id": "https://github.com/AshanSomasiri/Phytochemical-Engine",
       "title": "AshanSomasiri/Phytochemical-Engine",
       "url": "https://github.com/AshanSomasiri/Phytochemical-Engine",
@@ -8561,25 +8176,6 @@
       "relevance": 85,
       "first_seen": "2026-09-26T19:13:25+00:00",
       "last_seen": "2026-09-30T14:56:19+00:00"
-    },
-    {
-      "id": "doi:10.64898/2026.09.21.752883",
-      "title": "Heterogeneous Graph Contrastive Learning for Drug-Gene-Disease Motif Prediction",
-      "url": "https://doi.org/10.64898/2026.09.21.752883",
-      "published": "2026-09-26",
-      "source": "Europe PMC",
-      "kind": "Preprints",
-      "doi": "10.64898/2026.09.21.752883",
-      "collected_from": "epmc-biologics",
-      "subjects": [
-        "Target discovery"
-      ],
-      "methods": [
-        "Data & software"
-      ],
-      "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
     },
     {
       "id": "https://arxiv.org/abs/2609.32309",
@@ -8658,26 +8254,6 @@
       "relevance": 65,
       "first_seen": "2026-09-28T13:53:18+00:00",
       "last_seen": "2026-10-06T11:17:31+00:00"
-    },
-    {
-      "id": "doi:10.1177/19475535261475467",
-      "title": "Representative Biobanks as Infrastructure for Equitable Precision Medicine: Implications for Clinical Trials, Artificial Intelligence, and Translational Research.",
-      "url": "https://doi.org/10.1177/19475535261475467",
-      "published": "2026-09-26",
-      "source": "Biopreservation and biobanking",
-      "kind": "Journals",
-      "doi": "10.1177/19475535261475467",
-      "collected_from": "epmc-biologics",
-      "subjects": [
-        "Target discovery"
-      ],
-      "methods": [
-        "AI & machine learning",
-        "Data & software"
-      ],
-      "relevance": 65,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
     },
     {
       "id": "https://arxiv.org/abs/2609.32467",
@@ -8923,8 +8499,8 @@
         "Discovery research"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1016/j.drudis.2026.104813",
@@ -10746,8 +10322,8 @@
         "Data & software"
       ],
       "relevance": 60,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1007/s10822-026-00938-8",
@@ -11180,8 +10756,8 @@
         "Generative design"
       ],
       "relevance": 60,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01096",
@@ -11629,25 +11205,6 @@
       "last_seen": "2026-09-25T04:59:13+00:00"
     },
     {
-      "id": "doi:10.3390/ijms27188400",
-      "title": "Anisotropic Gold Nanoconjugates Bearing Immunoinformatically Designed T-Cell Epitope-Containing Peptides: Comparative Evaluation in THP-1 and Human Primary Macrophages.",
-      "url": "https://doi.org/10.3390/ijms27188400",
-      "published": "2026-09-21",
-      "source": "International journal of molecular sciences",
-      "kind": "Journals",
-      "doi": "10.3390/ijms27188400",
-      "collected_from": "epmc-biologics",
-      "subjects": [
-        "Peptides"
-      ],
-      "methods": [
-        "Experimental discovery"
-      ],
-      "relevance": 70,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
       "id": "doi:10.1002/anie.1404527",
       "title": "From Stable Radicals to Radical‑Trapping Antioxidants: Blatter Radicals Potently Inhibit Autoxidation and Suppress Ferroptosis.",
       "url": "https://doi.org/10.1002/anie.1404527",
@@ -11688,25 +11245,6 @@
       "relevance": 60,
       "first_seen": "2026-09-30T14:56:19+00:00",
       "last_seen": "2026-10-05T17:09:30+00:00"
-    },
-    {
-      "id": "doi:10.2147/ccid.s636697",
-      "title": "Integrative Transcriptomic and Genetic Analyses Identify CDC20 as a Potential Biomarker Associated with Cell Cycle and Immune-Inflammatory Processes in Psoriasis.",
-      "url": "https://doi.org/10.2147/ccid.s636697",
-      "published": "2026-09-21",
-      "source": "Clinical, cosmetic and investigational dermatology",
-      "kind": "Journals",
-      "doi": "10.2147/ccid.s636697",
-      "collected_from": "epmc-biologics",
-      "subjects": [
-        "Discovery methods"
-      ],
-      "methods": [
-        "Data & software"
-      ],
-      "relevance": 60,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
     },
     {
       "id": "doi:10.3390/ph19091498",
@@ -12087,44 +11625,6 @@
       "last_seen": "2026-09-28T07:31:00+00:00"
     },
     {
-      "id": "doi:10.3390/vaccines14090825",
-      "title": "Rethinking Candida Vaccine Translation: Barriers, Immunotherapies and a One Health Imperative.",
-      "url": "https://doi.org/10.3390/vaccines14090825",
-      "published": "2026-09-19",
-      "source": "Vaccines",
-      "kind": "Journals",
-      "doi": "10.3390/vaccines14090825",
-      "collected_from": "epmc-biologics",
-      "subjects": [
-        "Antibodies"
-      ],
-      "methods": [
-        "Discovery research"
-      ],
-      "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
-      "id": "doi:10.3390/ijms27188328",
-      "title": "Advancing the Paradigm of Temporal Lobe Epilepsy as a Network Disease: The Promise of Biomarkers and Targeted Disease Modification.",
-      "url": "https://doi.org/10.3390/ijms27188328",
-      "published": "2026-09-19",
-      "source": "International journal of molecular sciences",
-      "kind": "Journals",
-      "doi": "10.3390/ijms27188328",
-      "collected_from": "epmc-biologics",
-      "subjects": [
-        "Other modalities"
-      ],
-      "methods": [
-        "Discovery research"
-      ],
-      "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
       "id": "doi:10.1016/j.isci.2026.117600",
       "title": "A scalable, high-throughput glue perturbation screening platform for molecular glue discovery.",
       "url": "https://doi.org/10.1016/j.isci.2026.117600",
@@ -12143,7 +11643,7 @@
       ],
       "relevance": 80,
       "first_seen": "2026-10-03T05:20:19+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/ngclara07/cm3005-tcm-activity-predictor",
@@ -12473,8 +11973,8 @@
         "Discovery research"
       ],
       "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1186/s13321-026-01305-3",
@@ -12651,28 +12151,6 @@
       "relevance": 80,
       "first_seen": "2026-09-23T08:51:39+00:00",
       "last_seen": "2026-10-02T20:46:18+00:00"
-    },
-    {
-      "id": "doi:10.3390/molecules31183318",
-      "title": "Aptamer-Based Heterobifunctional Targeted Degraders in Disease Treatment.",
-      "url": "https://doi.org/10.3390/molecules31183318",
-      "published": "2026-09-18",
-      "source": "Molecules (Basel, Switzerland)",
-      "kind": "Journals",
-      "doi": "10.3390/molecules31183318",
-      "collected_from": "epmc-biologics",
-      "subjects": [
-        "Small molecules",
-        "Antibodies",
-        "Target discovery",
-        "Other modalities"
-      ],
-      "methods": [
-        "Generative design"
-      ],
-      "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
     },
     {
       "id": "https://github.com/ishandutta2007/Awesome-Molecular-Modeling",
@@ -13205,7 +12683,7 @@
       ],
       "relevance": 85,
       "first_seen": "2026-10-03T05:20:19+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1016/j.drudis.2026.104806",
@@ -13265,26 +12743,6 @@
       "relevance": 80,
       "first_seen": "2026-09-23T07:51:19+00:00",
       "last_seen": "2026-10-02T20:46:18+00:00"
-    },
-    {
-      "id": "doi:10.3390/ph19091477",
-      "title": "Hydrophobic Tag Protein Degraders: An Emerging Therapeutic Strategy for Cancer.",
-      "url": "https://doi.org/10.3390/ph19091477",
-      "published": "2026-09-17",
-      "source": "Pharmaceuticals (Basel, Switzerland)",
-      "kind": "Journals",
-      "doi": "10.3390/ph19091477",
-      "collected_from": "epmc-biologics",
-      "subjects": [
-        "Small molecules",
-        "Other modalities"
-      ],
-      "methods": [
-        "Discovery research"
-      ],
-      "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
     },
     {
       "id": "doi:10.1016/j.ejmech.2026.119327",
@@ -13425,7 +12883,7 @@
       ],
       "relevance": 65,
       "first_seen": "2026-10-03T19:14:12+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jcim.6c02031",
@@ -13962,8 +13420,8 @@
         "ADMET & properties"
       ],
       "relevance": 60,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1039/d6sc05172c",
@@ -14020,8 +13478,8 @@
         "ADMET & properties"
       ],
       "relevance": 60,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1111/aor.70245",
@@ -14323,26 +13781,6 @@
       "last_seen": "2026-10-07T06:02:07+00:00"
     },
     {
-      "id": "doi:10.1186/s40246-026-01032-8",
-      "title": "AI-powered histopathology classifiers identify transcriptomic biomarkers associated with cell cycle regulation and increased mitotic activity in poorly differentiated neuroendocrine carcinoma.",
-      "url": "https://doi.org/10.1186/s40246-026-01032-8",
-      "published": "2026-09-15",
-      "source": "Human genomics",
-      "kind": "Journals",
-      "doi": "10.1186/s40246-026-01032-8",
-      "collected_from": "epmc-biologics",
-      "subjects": [
-        "Discovery methods"
-      ],
-      "methods": [
-        "AI & machine learning",
-        "Data & software"
-      ],
-      "relevance": 65,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
       "id": "https://github.com/kelinchen/siRNA-design",
       "title": "kelinchen/siRNA-design",
       "url": "https://github.com/kelinchen/siRNA-design",
@@ -14380,8 +13818,8 @@
         "Experimental discovery"
       ],
       "relevance": 60,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.3389/fimmu.2026.1944035",
@@ -14399,8 +13837,8 @@
         "Generative design"
       ],
       "relevance": 60,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1063/5.0342617",
@@ -14675,26 +14113,6 @@
       "last_seen": "2026-09-28T16:45:50+00:00"
     },
     {
-      "id": "doi:10.3390/ph19091457",
-      "title": "Current Landscape of Glycogen Synthase Kinase-3β PET Tracers: Progress, Limitations, and Perspectives-A Narrative Review.",
-      "url": "https://doi.org/10.3390/ph19091457",
-      "published": "2026-09-14",
-      "source": "Pharmaceuticals (Basel, Switzerland)",
-      "kind": "Journals",
-      "doi": "10.3390/ph19091457",
-      "collected_from": "epmc-biologics",
-      "subjects": [
-        "Small molecules"
-      ],
-      "methods": [
-        "Synthesis planning",
-        "Data & software"
-      ],
-      "relevance": 65,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
       "id": "doi:10.1021/acs.jcim.6c02385",
       "title": "Assay-Level Modeling and External Validation of Antibody Developability Using Physicochemical Descriptors and Sequence Embeddings",
       "url": "https://doi.org/10.1021/acs.jcim.6c02385",
@@ -14768,8 +14186,8 @@
         "Affinity & simulation"
       ],
       "relevance": 60,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.3389/fimmu.2026.1900936",
@@ -14788,7 +14206,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-01T15:27:59+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "https://github.com/lachrymator/openadmet-cyp-challenge-public",
@@ -14918,26 +14336,6 @@
       "relevance": 80,
       "first_seen": "2026-09-23T07:51:19+00:00",
       "last_seen": "2026-09-26T22:52:31+00:00"
-    },
-    {
-      "id": "doi:10.3390/ijms27188121",
-      "title": "Phosphoproteomic Data Integration Reveals Paralog-Specific Co-Regulatory Networks of Rho-Associated Kinases ROCK1 and ROCK2.",
-      "url": "https://doi.org/10.3390/ijms27188121",
-      "published": "2026-09-12",
-      "source": "International journal of molecular sciences",
-      "kind": "Journals",
-      "doi": "10.3390/ijms27188121",
-      "collected_from": "epmc-biologics",
-      "subjects": [
-        "Target discovery"
-      ],
-      "methods": [
-        "Data & software",
-        "Experimental discovery"
-      ],
-      "relevance": 65,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
     },
     {
       "id": "doi:10.1080/19420862.2026.2731282",
@@ -15274,7 +14672,7 @@
       ],
       "relevance": 60,
       "first_seen": "2026-10-11T05:48:59+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1021/acs.jmedchem.6c01231",
@@ -15400,28 +14798,6 @@
       "last_seen": "2026-09-24T23:13:34+00:00"
     },
     {
-      "id": "doi:10.3390/cancers18182939",
-      "title": "Big Data and Artificial Intelligence in Cancer Drug Discovery: Promise, Challenges, and Emerging Opportunities.",
-      "url": "https://doi.org/10.3390/cancers18182939",
-      "published": "2026-09-10",
-      "source": "Cancers",
-      "kind": "Journals",
-      "doi": "10.3390/cancers18182939",
-      "collected_from": "epmc-biologics",
-      "subjects": [
-        "Small molecules",
-        "Target discovery"
-      ],
-      "methods": [
-        "Generative design",
-        "AI & machine learning",
-        "Data & software"
-      ],
-      "relevance": 90,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
-    },
-    {
       "id": "doi:10.1016/j.ejmech.2026.119322",
       "title": "Amphipathic cell-penetrating peptide-based molecular transporters: A balanced approach for membrane penetration.",
       "url": "https://doi.org/10.1016/j.ejmech.2026.119322",
@@ -15526,26 +14902,6 @@
       "relevance": 80,
       "first_seen": "2026-09-23T07:51:19+00:00",
       "last_seen": "2026-09-24T23:13:34+00:00"
-    },
-    {
-      "id": "doi:10.3390/ijms27188054",
-      "title": "Bridging E3 Ligase Binding and Targeted Degradation Through Fluorescence Polarization.",
-      "url": "https://doi.org/10.3390/ijms27188054",
-      "published": "2026-09-10",
-      "source": "International journal of molecular sciences",
-      "kind": "Journals",
-      "doi": "10.3390/ijms27188054",
-      "collected_from": "epmc-biologics",
-      "subjects": [
-        "Small molecules",
-        "Other modalities"
-      ],
-      "methods": [
-        "Experimental discovery"
-      ],
-      "relevance": 80,
-      "first_seen": "2026-10-12T17:56:32+00:00",
-      "last_seen": "2026-10-12T17:56:32+00:00"
     },
     {
       "id": "doi:10.64898/2026.09.06.749678",
@@ -16143,6 +15499,25 @@
       "last_seen": "2026-09-28T16:45:50+00:00"
     },
     {
+      "id": "doi:10.1038/s41467-026-77254-0",
+      "title": "High-resolution structures of human NHE6 and NHE9 elucidate endosomal ion and lipid interactions.",
+      "url": "https://doi.org/10.1038/s41467-026-77254-0",
+      "published": "2026-09-03",
+      "source": "Nature communications",
+      "kind": "Journals",
+      "doi": "10.1038/s41467-026-77254-0",
+      "collected_from": "epmc-biologics",
+      "subjects": [
+        "Discovery methods"
+      ],
+      "methods": [
+        "Generative design"
+      ],
+      "relevance": 60,
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
+    },
+    {
       "id": "doi:10.3389/fonc.2026.1890288",
       "title": "Bibliometric and clinical trial landscape of hepatoblastoma (2000-2024): a multi-database analysis of global research.",
       "url": "https://doi.org/10.3389/fonc.2026.1890288",
@@ -16183,6 +15558,25 @@
       "relevance": 100,
       "first_seen": "2026-09-28T13:53:18+00:00",
       "last_seen": "2026-09-28T16:45:50+00:00"
+    },
+    {
+      "id": "doi:10.1016/bs.mie.2026.07.032",
+      "title": "ArtiSt: An organocatalyst inspired by TPP installed in a steroid-carrying protein creates an artificial Stetterase.",
+      "url": "https://doi.org/10.1016/bs.mie.2026.07.032",
+      "published": "2026-09-02",
+      "source": "Methods in enzymology",
+      "kind": "Journals",
+      "doi": "10.1016/bs.mie.2026.07.032",
+      "collected_from": "epmc-biologics",
+      "subjects": [
+        "Protein design"
+      ],
+      "methods": [
+        "Generative design"
+      ],
+      "relevance": 70,
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1016/j.mtbio.2026.103643",
@@ -16380,6 +15774,68 @@
       "last_seen": "2026-09-28T07:31:00+00:00"
     },
     {
+      "id": "doi:10.7759/cureus.115406",
+      "title": "Suzetrigine: A Selective Inhibitor of the NaV1.8 Sodium Channel.",
+      "url": "https://doi.org/10.7759/cureus.115406",
+      "published": "2026-08-29",
+      "source": "Cureus",
+      "kind": "Journals",
+      "doi": "10.7759/cureus.115406",
+      "collected_from": "epmc-biologics",
+      "subjects": [
+        "Small molecules"
+      ],
+      "methods": [
+        "ADMET & properties",
+        "Data & software"
+      ],
+      "relevance": 65,
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
+    },
+    {
+      "id": "doi:10.1021/acsptsci.6c00232",
+      "title": "Proteolysis Targeting Chimera (PROTAC) Linkerology Enhances the CDK-Degradation Selectivity Profile of a Multi-CDK Inhibitor: Discovery of Potent, Anti-Leukemic CDK9 Degraders.",
+      "url": "https://doi.org/10.1021/acsptsci.6c00232",
+      "published": "2026-08-28",
+      "source": "ACS pharmacology & translational science",
+      "kind": "Journals",
+      "doi": "10.1021/acsptsci.6c00232",
+      "collected_from": "epmc-biologics",
+      "subjects": [
+        "Small molecules",
+        "Other modalities"
+      ],
+      "methods": [
+        "Discovery research"
+      ],
+      "relevance": 80,
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
+    },
+    {
+      "id": "doi:10.1021/jacsau.6c00596",
+      "title": "Enhanced Sampling of Protein Conformations in AlphaFold3 with Repulsive Bias in the Diffusion Generative Model.",
+      "url": "https://doi.org/10.1021/jacsau.6c00596",
+      "published": "2026-08-26",
+      "source": "JACS Au",
+      "kind": "Journals",
+      "doi": "10.1021/jacsau.6c00596",
+      "collected_from": "epmc-biologics",
+      "subjects": [
+        "Small molecules",
+        "Protein design"
+      ],
+      "methods": [
+        "Affinity & simulation",
+        "Generative design",
+        "AI & machine learning"
+      ],
+      "relevance": 90,
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
+    },
+    {
       "id": "doi:10.3390/cancers18172766",
       "title": "Mechanism-Driven Diagnostic Development: A Specimen-Aware Framework Illustrated by Colorectal Cancer and Solid Tumours.",
       "url": "https://doi.org/10.3390/cancers18172766",
@@ -16397,6 +15853,27 @@
       "relevance": 60,
       "first_seen": "2026-09-25T04:59:13+00:00",
       "last_seen": "2026-09-28T07:31:00+00:00"
+    },
+    {
+      "id": "doi:10.1021/jacsau.6c00598",
+      "title": "Structural Basis of a High-Affinity Antibody Binding to Glycoprotein with Glycocalyx Decay.",
+      "url": "https://doi.org/10.1021/jacsau.6c00598",
+      "published": "2026-08-21",
+      "source": "JACS Au",
+      "kind": "Journals",
+      "doi": "10.1021/jacsau.6c00598",
+      "collected_from": "epmc-biologics",
+      "subjects": [
+        "Peptides",
+        "Antibodies"
+      ],
+      "methods": [
+        "Affinity & simulation",
+        "Experimental discovery"
+      ],
+      "relevance": 85,
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     },
     {
       "id": "doi:10.1038/s41467-026-76740-9",
@@ -16480,6 +15957,45 @@
       "last_seen": "2026-09-28T07:31:00+00:00"
     },
     {
+      "id": "https://europepmc.org/article/PMC/PMC13640889",
+      "title": "A Modular Agentic Framework for Synthetically Constrained Multi-Objective Hit-to-Lead Optimization",
+      "url": "https://europepmc.org/article/PMC/PMC13640889",
+      "published": "2026-08-11",
+      "source": "ArXiv",
+      "kind": "Journals",
+      "doi": null,
+      "collected_from": "epmc-biologics",
+      "subjects": [
+        "Discovery methods"
+      ],
+      "methods": [
+        "Experimental discovery"
+      ],
+      "relevance": 70,
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
+    },
+    {
+      "id": "doi:10.1093/abt/tbag041",
+      "title": "An IgG-like fusion protein comprising an anti-spike S2 antibody and ACE2 exhibits potent and broad neutralization against SARS-CoV-2 and variants of concern.",
+      "url": "https://doi.org/10.1093/abt/tbag041",
+      "published": "2026-08-06",
+      "source": "Antibody therapeutics",
+      "kind": "Journals",
+      "doi": "10.1093/abt/tbag041",
+      "collected_from": "epmc-biologics",
+      "subjects": [
+        "Peptides",
+        "Antibodies"
+      ],
+      "methods": [
+        "Affinity & simulation"
+      ],
+      "relevance": 80,
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
+    },
+    {
       "id": "doi:10.1093/bioinformatics/btag678",
       "title": "PatchEpi: patch-aware equivariant learning improves structure-based epitope prediction.",
       "url": "https://doi.org/10.1093/bioinformatics/btag678",
@@ -16520,6 +16036,90 @@
       "relevance": 60,
       "first_seen": "2026-09-27T05:20:05+00:00",
       "last_seen": "2026-09-28T07:31:00+00:00"
+    },
+    {
+      "id": "doi:10.1093/abt/tbag039",
+      "title": "Beyond affinity: AI-supported developability assessment and multi-objective optimization in antibody development.",
+      "url": "https://doi.org/10.1093/abt/tbag039",
+      "published": "2026-07-31",
+      "source": "Antibody therapeutics",
+      "kind": "Journals",
+      "doi": "10.1093/abt/tbag039",
+      "collected_from": "epmc-biologics",
+      "subjects": [
+        "Antibodies"
+      ],
+      "methods": [
+        "ADMET & properties",
+        "Generative design",
+        "AI & machine learning",
+        "Experimental discovery"
+      ],
+      "relevance": 95,
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
+    },
+    {
+      "id": "doi:10.1093/abt/tbag040",
+      "title": "Hinge-region Cys-to-Ser mutation enables homogeneous DAR6 anti-c-Met biparatopic ADCs with tolerable O-glycosylation.",
+      "url": "https://doi.org/10.1093/abt/tbag040",
+      "published": "2026-07-31",
+      "source": "Antibody therapeutics",
+      "kind": "Journals",
+      "doi": "10.1093/abt/tbag040",
+      "collected_from": "epmc-biologics",
+      "subjects": [
+        "Antibodies"
+      ],
+      "methods": [
+        "ADMET & properties",
+        "Experimental discovery"
+      ],
+      "relevance": 85,
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
+    },
+    {
+      "id": "doi:10.34133/csbj.0063",
+      "title": "Rational Immunogenicity Modulation of Virus-Like Particles by VLPIM.",
+      "url": "https://doi.org/10.34133/csbj.0063",
+      "published": "2026-04-28",
+      "source": "Computational and structural biotechnology journal",
+      "kind": "Journals",
+      "doi": "10.34133/csbj.0063",
+      "collected_from": "epmc-biologics",
+      "code_url": "https://github.com/RuijinHospitalVNAR/VLPIM",
+      "subjects": [
+        "Protein design"
+      ],
+      "methods": [
+        "Docking & screening",
+        "Generative design",
+        "Data & software",
+        "Experimental discovery"
+      ],
+      "relevance": 95,
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
+    },
+    {
+      "id": "doi:10.1038/s41578-025-00861-8",
+      "title": "Engineering complexity into protein-based biomaterials for biomedical applications.",
+      "url": "https://doi.org/10.1038/s41578-025-00861-8",
+      "published": "2025-11-21",
+      "source": "Nature reviews. Materials",
+      "kind": "Journals",
+      "doi": "10.1038/s41578-025-00861-8",
+      "collected_from": "epmc-biologics",
+      "subjects": [
+        "Protein design"
+      ],
+      "methods": [
+        "Generative design"
+      ],
+      "relevance": 80,
+      "first_seen": "2026-10-13T02:01:34+00:00",
+      "last_seen": "2026-10-13T02:01:34+00:00"
     }
   ],
   "sources": [
@@ -16527,8 +16127,8 @@
       "id": "epmc-chem",
       "name": "Europe PMC · chemistry & discovery",
       "url": "https://europepmc.org",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
       "candidates": 400,
       "accepted": 70,
@@ -16538,19 +16138,19 @@
       "id": "epmc-biologics",
       "name": "Europe PMC · biologics & targets",
       "url": "https://europepmc.org",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
-      "candidates": 300,
-      "accepted": 88,
-      "limited": true
+      "candidates": 295,
+      "accepted": 79,
+      "limited": false
     },
     {
       "id": "epmc-modalities",
       "name": "Europe PMC · emerging modalities",
       "url": "https://europepmc.org",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
       "candidates": 200,
       "accepted": 13,
@@ -16560,19 +16160,19 @@
       "id": "arxiv",
       "name": "arXiv",
       "url": "https://arxiv.org",
-      "checked_at": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
       "last_success": "2026-10-12T17:56:32+00:00",
-      "status": "ok",
-      "candidates": 33,
-      "accepted": 27,
-      "limited": false
+      "status": "error",
+      "candidates": 0,
+      "accepted": 0,
+      "message": "TimeoutError: The read operation timed out"
     },
     {
       "id": "jcheminf",
       "name": "Journal of Cheminformatics",
       "url": "https://jcheminf.biomedcentral.com/",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
       "candidates": 5,
       "accepted": 4,
@@ -16582,29 +16182,29 @@
       "id": "jcim",
       "name": "Journal of Chemical Information and Modeling",
       "url": "https://pubs.acs.org/journal/jcisd8",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
-      "candidates": 55,
-      "accepted": 34,
+      "candidates": 52,
+      "accepted": 32,
       "limited": false
     },
     {
       "id": "jmedchem",
       "name": "Journal of Medicinal Chemistry",
       "url": "https://pubs.acs.org/journal/jmcmar",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
-      "candidates": 83,
-      "accepted": 47,
+      "candidates": 84,
+      "accepted": 48,
       "limited": false
     },
     {
       "id": "acs-medchem-letters",
       "name": "ACS Medicinal Chemistry Letters",
       "url": "https://pubs.acs.org/journal/amclct",
-      "checked_at": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
       "last_success": null,
       "status": "error",
       "candidates": 0,
@@ -16615,7 +16215,7 @@
       "id": "acs-pharmacol-transl",
       "name": "ACS Pharmacology & Translational Science",
       "url": "https://pubs.acs.org/journal/aptsfn",
-      "checked_at": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
       "last_success": null,
       "status": "error",
       "candidates": 0,
@@ -16626,8 +16226,8 @@
       "id": "nature-methods",
       "name": "Nature Methods",
       "url": "https://www.nature.com/nmeth",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
       "candidates": 13,
       "accepted": 2,
@@ -16637,10 +16237,10 @@
       "id": "nature-chemical-biology",
       "name": "Nature Chemical Biology",
       "url": "https://www.nature.com/nchembio",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
-      "candidates": 14,
+      "candidates": 12,
       "accepted": 3,
       "limited": false
     },
@@ -16648,10 +16248,10 @@
       "id": "nature-biotechnology",
       "name": "Nature Biotechnology",
       "url": "https://www.nature.com/nbt",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
-      "candidates": 26,
+      "candidates": 21,
       "accepted": 0,
       "limited": false
     },
@@ -16659,10 +16259,10 @@
       "id": "nature-machine-intelligence",
       "name": "Nature Machine Intelligence",
       "url": "https://www.nature.com/natmachintell",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
-      "candidates": 8,
+      "candidates": 5,
       "accepted": 0,
       "limited": false
     },
@@ -16670,7 +16270,7 @@
       "id": "nature-computational-science",
       "name": "Nature Computational Science",
       "url": "https://www.nature.com/natcomputsci",
-      "checked_at": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
       "last_success": null,
       "status": "error",
       "candidates": 0,
@@ -16681,21 +16281,21 @@
       "id": "nature-communications",
       "name": "Nature Communications",
       "url": "https://www.nature.com/ncomms",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
       "candidates": 100,
-      "accepted": 5,
+      "accepted": 4,
       "limited": true
     },
     {
       "id": "communications-chemistry",
       "name": "Communications Chemistry",
       "url": "https://www.nature.com/commschem",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
-      "candidates": 23,
+      "candidates": 22,
       "accepted": 2,
       "limited": false
     },
@@ -16703,8 +16303,8 @@
       "id": "scientific-reports",
       "name": "Scientific Reports",
       "url": "https://www.nature.com/srep",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
       "candidates": 100,
       "accepted": 0,
@@ -16714,8 +16314,8 @@
       "id": "chemrxiv",
       "name": "ChemRxiv",
       "url": "https://chemrxiv.org",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
       "candidates": 100,
       "accepted": 11,
@@ -16725,8 +16325,8 @@
       "id": "rdkit-blog",
       "name": "RDKit Blog",
       "url": "https://greglandrum.github.io/rdkit-blog/",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
       "candidates": 0,
       "accepted": 0,
@@ -16736,8 +16336,8 @@
       "id": "iwatobipen",
       "name": "iwatobipen",
       "url": "https://iwatobipen.wordpress.com",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
       "candidates": 1,
       "accepted": 0,
@@ -16747,8 +16347,8 @@
       "id": "opentargets",
       "name": "Open Targets",
       "url": "https://blog.opentargets.org",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
       "candidates": 0,
       "accepted": 0,
@@ -16758,8 +16358,8 @@
       "id": "chembl",
       "name": "ChEMBL Blog",
       "url": "https://chembl.blogspot.com",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
       "candidates": 0,
       "accepted": 0,
@@ -16769,7 +16369,7 @@
       "id": "this-week-cheminformatics",
       "name": "This Week in Cheminformatics",
       "url": "https://thisweekincheminformatics.substack.com",
-      "checked_at": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
       "last_success": "2026-09-23T09:07:52+00:00",
       "status": "error",
       "candidates": 0,
@@ -16780,7 +16380,7 @@
       "id": "rowan-newsletter",
       "name": "Rowan Newsletter",
       "url": "https://rowansci.substack.com",
-      "checked_at": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
       "last_success": "2026-09-23T09:07:52+00:00",
       "status": "error",
       "candidates": 0,
@@ -16791,8 +16391,8 @@
       "id": "macs-in-chemistry",
       "name": "Macs in Chemistry",
       "url": "https://macinchem.org",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
       "candidates": 7,
       "accepted": 1,
@@ -16802,8 +16402,8 @@
       "id": "noel-oblog",
       "name": "Noel O'Blog",
       "url": "https://baoilleach.blogspot.com",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
       "candidates": 0,
       "accepted": 0,
@@ -16813,7 +16413,7 @@
       "id": "medchem-ash",
       "name": "Medicinal Chemistry · Ash Jogalekar",
       "url": "https://medchemash.substack.com",
-      "checked_at": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
       "last_success": "2026-09-23T09:07:52+00:00",
       "status": "error",
       "candidates": 0,
@@ -16824,8 +16424,8 @@
       "id": "drugdiscovery-net",
       "name": "DrugDiscovery.NET",
       "url": "https://www.drugdiscovery.net",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
       "candidates": 0,
       "accepted": 0,
@@ -16835,7 +16435,7 @@
       "id": "chem-bla-ics",
       "name": "chem-bla-ics · Linked Chemistry",
       "url": "https://chem-bla-ics.linkedchemistry.info",
-      "checked_at": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
       "last_success": null,
       "status": "error",
       "candidates": 0,
@@ -16846,11 +16446,11 @@
       "id": "github",
       "name": "GitHub · tools & releases",
       "url": "https://github.com",
-      "checked_at": "2026-10-12T17:56:32+00:00",
-      "last_success": "2026-10-12T17:56:32+00:00",
+      "checked_at": "2026-10-13T02:01:34+00:00",
+      "last_success": "2026-10-13T02:01:34+00:00",
       "status": "ok",
       "candidates": 61,
-      "accepted": 54,
+      "accepted": 56,
       "limited": true
     }
   ],
